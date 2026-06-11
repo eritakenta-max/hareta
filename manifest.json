@@ -1,27 +1,22 @@
 {
-  "name": "ハレタス",
+  "name": "ハレタス - 未来を晴らす育成アプリ",
   "short_name": "ハレタス",
-  "description": "毎日のタスクを晴らして未来を育てるアプリ",
+  "description": "今日の小さな行動が未来を晴らす、未来育成アプリ",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#FFF8F0",
   "theme_color": "#FFB347",
   "orientation": "portrait",
-  "lang": "ja",
   "icons": [
     {
-      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='96' fill='%23FFB347'/><circle cx='256' cy='180' r='70' fill='%23FFE566'/><line x1='256' y1='80' x2='256' y2='50' stroke='%23FFE566' stroke-width='18' stroke-linecap='round'/><line x1='256' y1='310' x2='256' y2='280' stroke='%23FFE566' stroke-width='18' stroke-linecap='round'/><line x1='156' y1='130' x2='135' y2='109' stroke='%23FFE566' stroke-width='18' stroke-linecap='round'/><line x1='377' y1='251' x2='356' y2='230' stroke='%23FFE566' stroke-width='18' stroke-linecap='round'/><line x1='106' y1='180' x2='76' y2='180' stroke='%23FFE566' stroke-width='18' stroke-linecap='round'/><line x1='436' y1='180' x2='406' y2='180' stroke='%23FFE566' stroke-width='18' stroke-linecap='round'/><line x1='156' y1='230' x2='135' y2='251' stroke='%23FFE566' stroke-width='18' stroke-linecap='round'/><line x1='377' y1='109' x2='356' y2='130' stroke='%23FFE566' stroke-width='18' stroke-linecap='round'/><path d='M 220 340 Q 220 300 256 290 Q 292 300 292 340 L 292 440 Q 256 460 220 440 Z' fill='%236DBF6D'/><path d='M 256 330 Q 220 310 210 280 Q 230 260 256 280 Z' fill='%238BE08B'/><path d='M 256 360 Q 292 340 302 310 Q 282 290 256 310 Z' fill='%238BE08B'/><ellipse cx='256' cy='450' rx='60' ry='16' fill='%23C8A96A' opacity='0.5'/></svg>",
-      "sizes": "512x512",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
+      "src": "data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 rx=%2224%22 fill=%22%23FFB347%22/><text y=%2265%22 x=%2232%22 font-size=%2245%22>☀️</text><text y=%2280%22 x=%2250%22 font-size=%2240%22>🌱</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
     },
     {
-      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='36' fill='%23FFB347'/><circle cx='96' cy='68' r='26' fill='%23FFE566'/><line x1='96' y1='28' x2='96' y2='18' stroke='%23FFE566' stroke-width='7' stroke-linecap='round'/><line x1='96' y1='118' x2='96' y2='108' stroke='%23FFE566' stroke-width='7' stroke-linecap='round'/><line x1='58' y1='48' x2='51' y2='41' stroke='%23FFE566' stroke-width='7' stroke-linecap='round'/><line x1='141' y1='95' x2='134' y2='88' stroke='%23FFE566' stroke-width='7' stroke-linecap='round'/><line x1='38' y1='68' x2='28' y2='68' stroke='%23FFE566' stroke-width='7' stroke-linecap='round'/><line x1='164' y1='68' x2='154' y2='68' stroke='%23FFE566' stroke-width='7' stroke-linecap='round'/><line x1='58' y1='88' x2='51' y2='95' stroke='%23FFE566' stroke-width='7' stroke-linecap='round'/><line x1='141' y1='41' x2='134' y2='48' stroke='%23FFE566' stroke-width='7' stroke-linecap='round'/><path d='M 82 128 Q 82 112 96 108 Q 110 112 110 128 L 110 168 Q 96 174 82 168 Z' fill='%236DBF6D'/><path d='M 96 124 Q 82 116 78 104 Q 88 96 96 104 Z' fill='%238BE08B'/><path d='M 96 136 Q 110 128 114 116 Q 104 108 96 116 Z' fill='%238BE08B'/></svg>",
-      "sizes": "192x192",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
+      "src": "data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 rx=%2224%22 fill=%22%23FFB347%22/><text y=%2265%22 x=%2232%22 font-size=%2245%22>☀️</text><text y=%2280%22 x=%2250%22 font-size=%2240%22>🌱</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
     }
-  ],
-  "categories": ["lifestyle", "productivity"],
-  "screenshots": []
+  ]
 }
